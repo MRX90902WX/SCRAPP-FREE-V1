@@ -25,7 +25,7 @@ GENERARA 100 TARJETAS POR CADA OPCIÓN, SI USAS TERMUX DETEN EL PROCESO CON CTRL
 Nota 📝 
 
 - Cualquier error es por que te faltan algunos modulos
-- por instalar instala con pip install
+- instala con pip install (modulo)
 - ojo debes tener python instalado.
 
 #CUALQUIER DUDA O INQUIETUD 
