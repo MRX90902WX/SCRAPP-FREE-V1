@@ -3,7 +3,7 @@ Hola, comunidad de Carding hoy les traigo esta herramienta que hise , lo que tra
 
 #USO
 
-clonarrepositorio 
+clonar repositorio 
 
 - cd SCRAPP-FREE-V1
 
@@ -29,4 +29,4 @@ Nota 📝
 #CUALQUIER DUDA O INQUIETUD 
 HASMELA SABER POR MI TELEGRAM 🔔
 
-- @Demo593 ✅️
+- https://t.me/@Demo593 ✅️
